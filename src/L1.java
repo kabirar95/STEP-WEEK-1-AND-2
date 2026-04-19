@@ -1,6 +1,6 @@
 //LEVEL1
 
-public class LEVEL1 {
+public class L1 {
     public static void main(String[] args) {
 
         // Q1
